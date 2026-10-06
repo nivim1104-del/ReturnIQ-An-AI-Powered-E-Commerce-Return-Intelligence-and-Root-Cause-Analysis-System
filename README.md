@@ -320,19 +320,23 @@ The following visualization files are currently present in the project:
 
 ### Category Analysis
 
-![Category Analysis](Visualizations/category_analysis.png)
+<img width="1047" height="655" alt="category_analysis" src="https://github.com/user-attachments/assets/11dcf5ba-040a-4c16-b3c4-692e95d8bbc6" />
+
 
 ### Correlation Analysis
 
-![Correlation Analysis](Visualizations/correlation_analysis.png)
+<img width="1050" height="766" alt="correlation_analysis" src="https://github.com/user-attachments/assets/4aab4b12-5c13-4749-94b7-18ca9b5bd77d" />
+
 
 ### Distribution Analysis
 
-![Distribution Analysis](Visualizations/distribution_analysis.png)
+<img width="977" height="551" alt="distribution_analysis" src="https://github.com/user-attachments/assets/7db0768e-f5c7-41eb-906f-a2ccc9442ca3" />
+
 
 ### Trend Analysis
 
-![Trend Analysis](Visualizations/trend_analysis.png)
+<img width="1047" height="517" alt="trend_analysis" src="https://github.com/user-attachments/assets/f57d77ad-19fc-4dd6-a201-0449ddaa4458" />
+
 
 ---
 
